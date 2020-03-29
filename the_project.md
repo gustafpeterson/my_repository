@@ -12,3 +12,4 @@ With this project I hope to document the code properly, make sure that me and ot
 ## Outcome
   * The documentation is properly documented using Sphinx, it is alot of code so it took a considerable amount of time.
   * During the time spent going through the code a bunch of obsolete functions and files were found, these were removed.
+  * The project is situated in the following repository: <https://github.com/gustafpeterson/soildepthmodel>, i have sent you an invite as it is private.
